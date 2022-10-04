@@ -9,6 +9,15 @@ Programming languages I use:
 - Java
 - MySQL
 - HTML
-## Support
 
+## Deployment
+To deploy this project run
+```bash
+  npm run dev
+```
+
+## Support
 For support, email danielisaisal@gmail.com or visit my youtube Channel "Daniel Isai Saldaña Rocha"
+
+## Authors
+- [@danielisaisal](https://www.github.com/octokatherine)
