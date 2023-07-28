@@ -17,7 +17,7 @@ To deploy this project run
 ```
 
 ## Support
-For support, email danielisaisal@gmail.com or visit my youtube Channel "Daniel Isai Saldaña Rocha"
+For support, email danielisaisal@gmail.com or visit my youtube Channel "Dan the ghost"
 
 ## Authors
 - [@danielisaisal](https://www.github.com/octokatherine)
