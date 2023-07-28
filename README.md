@@ -1,4 +1,4 @@
-# Mi Readme :)
+# My Readme :)
 
 Hi, how are you? I'm Daniel Isaí Saldaña Rocha and I study at the Universidad de la Salle Bajío.
 ## extra things about me
