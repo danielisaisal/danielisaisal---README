@@ -7,8 +7,8 @@ Programming languages I use:
 - C
 - C#
 - Java
-- MySQL
-- HTML
+- HTML, JS y CSS
+- GML (Game Maker Languaje)
 
 ## Deployment
 To deploy this project run
