@@ -8,6 +8,7 @@ Programming languages I use:
 - C#
 - Java
 - HTML, JS y CSS
+- Swift
 - GML (Game Maker Languaje)
 
 ## Deployment
