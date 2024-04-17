@@ -4,12 +4,13 @@ Hi, how are you? I'm Daniel Isaí Saldaña Rocha and I study at the Universidad 
 ## extra things about me
 
 Programming languages I use:
-- C
 - C#
 - Java
 - HTML, JS y CSS
 - Swift
+- Python
 - GML (Game Maker Languaje)
+- Kotlin
 
 ## Deployment
 To deploy this project run
